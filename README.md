@@ -28,9 +28,7 @@ The notebook performs the following steps:
 - Transform lab angles to center-of-mass frame using the appropriate relativistic formula (valid for \( \lambda < 1 \)).
 - Compute the corresponding experimental differential cross sections.
 - Compare the results to the analytical **Rutherford scattering formula**:
-  $$
-  \left( \frac{d\sigma}{d\Omega} \right)_{\text{Ruth}} = \frac{a^2}{4} \cdot \frac{1}{\sin^4(\theta/2)}
-  $$
+  $$\left( \frac{d\sigma}{d\Omega} \right)_{\text{Ruth}} = \frac{a^2}{4} \cdot \frac{1}{\sin^4(\theta/2)}$$
 - Plot both the experimental and theoretical cross sections for comparison.
 
 ---
